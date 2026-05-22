@@ -1,0 +1,4 @@
+# Keep this judging workspace folder in the repo, but do not commit participant submissions.
+*
+!.gitignore
+!README.md
